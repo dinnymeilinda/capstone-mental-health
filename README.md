@@ -1,4 +1,6 @@
 # Capstone Project-Mental-Health-Dinny Meilinda Sari
+Hacktiv8 x IBM
+Data Classification and Summarization Using IBM Granite
 
 # Title project
 KLASIFIKASI RISIKO MENTAL HEALTH
